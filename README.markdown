@@ -9,7 +9,7 @@ Send me a pull request.
 
 Together we'll never have to write the same fucking code again.
 
----
+- - -
 
 The status code definitions in this project were obtained from status_lines[]
 within http_protocol.c in the Apache source.
